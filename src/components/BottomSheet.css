@@ -61,7 +61,7 @@
     z-index: 99;
     transition: transform 0.3s ease-in-out;
     transform: translateY(100%);
-    background-color: blue;
+    background-color: #006699;
 }
 
 /* this is the indicter style */
@@ -89,7 +89,7 @@
     .bottom-container {
         width: 100%;
         left: 0;
-        background-color: blue;
+        background-color: #006699;
     }
 }
 
@@ -98,6 +98,6 @@
     .bottom-container {
         width: 60%;
         left: 20%;
-        background-color: blue;
+        background-color: #006699;
     }
 }

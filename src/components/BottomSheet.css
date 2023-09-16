@@ -93,9 +93,13 @@
         left: 0;
         background-color: #006699;
     }
+
+    .sheet-handle {
+        flex-direction: column;
+    }
 }
 
-/* for laptop screen */
+/* for tablets screen */
 @media (min-width: 769px) and (max-width: 1024px) {
     .bottom-container {
         width: 60%;
